@@ -47,8 +47,3 @@ If you want to train some models without lunching the script:
 ## References
 - [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 - [Xception PyTorch](https://github.com/tstandley/Xception-PyTorch)
-
-## Credits
-- Adarsh Agrawal
-- Adeem Jassani
-- Sai Pokkunuri
